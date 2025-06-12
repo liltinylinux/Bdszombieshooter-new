@@ -48,8 +48,6 @@ images/gritty.jpg
 
 Open index.html in a web browser like Chrome or Firefox
 
-Made By
-
 Made by Z3NN
 
 in collaboration with Liltinylinux and a Tylertoremember.
